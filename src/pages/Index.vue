@@ -147,5 +147,5 @@ export default {
   flex: 0 0 100px;
   background: url(../assets/buildings.png);
   background-size: contain;
-  background-position:center bottom;
+  background-position: center bottom
 </style>
