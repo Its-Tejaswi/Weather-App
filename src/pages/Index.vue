@@ -144,8 +144,8 @@ export default {
   top: -44px;
 
 .skyline
-  flex: 0 0 23em;
+  flex: 0 0 100px;
   background: url(../assets/buildings.png);
   background-size: contain;
-  background-position: bottom center;
+  background-position:center bottom;
 </style>
